@@ -16,7 +16,7 @@ It allows users to add albums and songs, play them and and choose some of theirs
 # Prerequisite
 
 1. Django Python framework
- 2.Editor
+2. Editor
       
 # Installing Django
 
