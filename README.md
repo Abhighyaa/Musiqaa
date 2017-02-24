@@ -9,7 +9,7 @@ It allows users to add albums and songs, play them and and choose some of theirs
 
 # Getting Started
 
-  Download the repository on your local machine. Open Command Prompt and navigate to your folder. Run the following comand:
+  Download the repository on your local machine. Open Command Prompt and navigate to your folder. Run the following command:
   
     python manage.py runserver
 
@@ -24,7 +24,7 @@ It allows users to add albums and songs, play them and and choose some of theirs
   
   In the command prompt,execute the following command:
   
-   pip install django
+    pip install django
       
               
        
