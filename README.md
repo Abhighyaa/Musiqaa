@@ -16,12 +16,15 @@ It allows users to add albums and songs, play them and and choose some of theirs
 # Prerequisite
 
 1. Django Python framework
-2.Editor
+ 2.Editor
       
 # Installing Django
 
   Install [Python](https://python.org/downloads/).
+  
   In the command prompt,execute the following command:
-              pip install django
+  
+   pip install django
+      
               
        
