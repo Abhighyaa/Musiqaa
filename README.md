@@ -1,20 +1,27 @@
 # Django Python framework
 
-With Django, you can take Web applications from concept to launch in a matter of hours. Django takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
-It is fully loaded, ridiculously fast, reassuringly secure,exceedingly scalable, incredibly versatile.
+It allows users to add albums and songs, play them and and choose some of theirs as favorite.User first needs to signup before doing any of above tasks.He can then login using same id password next time.It is a kind of Sound cloud.User can now manage and listen to your music from any device, anywhere in the world.
 
-## Official Documentation
+# Built With
 
-Documentation for the framework can be found on the [Django website](https://docs.djangoproject.com/).
+1. Bootstrap
+2. Django
 
-## Contributing
+# Getting Started
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Django documentation](https://docs.djangoproject.com/en/dev/internals/contributing/).
+  Download the repository on your local machine. Open Command Prompt and navigate to your folder. Run the following comand:
+  
+    python manage.py runserver
 
-## Security Vulnerabilities
+# Prerequisite
 
-If you discover a security vulnerability within Django, please send an e-mail to securty team  at security@djangoproject.com. All security vulnerabilities will be promptly addressed.
+1. Django Python framework
+2.Editor
+      
+# Installing Django
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [DSF](https://www.djangoproject.com/trademarks/).
+  Install [Python](https://python.org/downloads/).
+  In the command prompt,execute the following command:
+              pip install django
+              
+       
