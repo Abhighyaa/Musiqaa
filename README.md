@@ -1,4 +1,4 @@
- #  Django Python framework
+# Django Python framework
 
 With Django, you can take Web applications from concept to launch in a matter of hours. Django takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 It is fully loaded, ridiculously fast, reassuringly secure,exceedingly scalable, incredibly versatile.
