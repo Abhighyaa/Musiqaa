@@ -1,6 +1,31 @@
-# Django Python framework
-
+# Musiqaa
 It allows users to add albums and songs, play them and and choose some of theirs as favorite.User first needs to signup before doing any of above tasks.He can then login using same id password next time.It is a kind of Sound cloud.User can now manage and listen to your music from any device, anywhere in the world.
+
+In the very beginning user gets a login page since this is a cloud there is no general homepage.User needs to login through his account.
+![login](https://github.com/Abhighyaa/Musiqaa/blob/master/login.PNG)
+
+If user doesn't has a account, they can sign up by clicking on "Click here" or "Register"option.
+![register](https://github.com/Abhighyaa/Musiqaa/blob/master/register.PNG)
+
+After succesful login by correct user name and password, it leads to their homepage varying for every account(as per albums uploaded by the user.)
+![homepage](https://github.com/Abhighyaa/Musiqaa/blob/master/homepage.PNG)
+
+The homepage gives a view of all the albums of user. He can prioritize the albums by clicking on star button or delete them by clicking on dustbin button.
+User can also have a simila view of all the songs of all the albums together.
+![songs](https://github.com/Abhighyaa/Musiqaa/blob/master/songs.PNG)
+
+User can view songs of a particular album too at once.
+![view_album](https://github.com/Abhighyaa/Musiqaa/blob/master/view_album.PNG)
+
+User can play, delete, favorite the songs too.User can view just the favorite songs too.
+![fv_songs](https://github.com/Abhighyaa/Musiqaa/blob/master/songs_fav.PNG)
+
+User can also add an album or a song.
+![addalbum](https://github.com/Abhighyaa/Musiqaa/blob/master/add_a_album.PNG)
+![addsong](https://github.com/Abhighyaa/Musiqaa/blob/master/add_a_song.PNG)
+
+User can also search for any album or song using filter.
+![search](https://github.com/Abhighyaa/Musiqaa/blob/master/song_search.PNG)
 
 # Built With
 
