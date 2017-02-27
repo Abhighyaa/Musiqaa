@@ -8,7 +8,7 @@ If user doesn't has a account, they can sign up by clicking on "Click here" or "
 ![register](https://github.com/Abhighyaa/Musiqaa/blob/master/register.PNG)
 
 After succesful login by correct user name and password, it leads to their homepage varying for every account(as per albums uploaded by the user.)
-![homepage](https://github.com/Abhighyaa/Musiqaa/blob/master/homepage.PNG)
+![homepage](https://raw.githubusercontent.com/Abhighyaa/Musiqaa/master/homepage.PNG)
 
 The homepage gives a view of all the albums of user. He can prioritize the albums by clicking on star button or delete them by clicking on dustbin button.
 User can also have a simila view of all the songs of all the albums together.
